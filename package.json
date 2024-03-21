@@ -1,0 +1,25 @@
+{
+  "name": "occaecatiut",
+  "version": "1.0.0",
+  "description": "Native JS murmur hash implementation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LonHeidenreich/occaecatiut.git"
+  },
+  "keywords": [
+    "murmur",
+    "hash",
+    "string",
+    "autem",
+    "est",
+    "est"
+  ],
+  "author": "NyaVon",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "72aabce3f52cb8f16245692a69fd35951e165af0",
+  "bugs": {
+    "url": "https://github.com/LonHeidenreich/occaecatiut.git/issues"
+  }
+}
